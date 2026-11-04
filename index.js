@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
                 <h1> Node.js Application</h1>
                 <p>Jenkins Automatic Deployment</p>
                 <div class="status"> Deployment Successful</div>
-                <p>Version 2.0.0 LIVE</p>
+                <p>Version 3.0.0 LIVE</p>
             </div>
         </body>
         </html>
